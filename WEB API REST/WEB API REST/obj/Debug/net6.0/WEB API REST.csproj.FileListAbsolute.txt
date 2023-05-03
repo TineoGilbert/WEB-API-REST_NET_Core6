@@ -1,0 +1,32 @@
+C:\DotNetCore\WEB API REST\WEB API REST\obj\Debug\net6.0\WEB API REST.csproj.AssemblyReference.cache
+C:\DotNetCore\WEB API REST\WEB API REST\obj\Debug\net6.0\WEB API REST.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetCore\WEB API REST\WEB API REST\obj\Debug\net6.0\WEB API REST.AssemblyInfoInputs.cache
+C:\DotNetCore\WEB API REST\WEB API REST\obj\Debug\net6.0\WEB API REST.AssemblyInfo.cs
+C:\DotNetCore\WEB API REST\WEB API REST\obj\Debug\net6.0\WEB API REST.csproj.CoreCompileInputs.cache
+C:\DotNetCore\WEB API REST\WEB API REST\obj\Debug\net6.0\WEB API REST.MvcApplicationPartsAssemblyInfo.cs
+C:\DotNetCore\WEB API REST\WEB API REST\obj\Debug\net6.0\WEB API REST.MvcApplicationPartsAssemblyInfo.cache
+C:\DotNetCore\WEB API REST\WEB API REST\bin\Debug\net6.0\appsettings.Development.json
+C:\DotNetCore\WEB API REST\WEB API REST\bin\Debug\net6.0\appsettings.json
+C:\DotNetCore\WEB API REST\WEB API REST\bin\Debug\net6.0\WEB API REST.exe
+C:\DotNetCore\WEB API REST\WEB API REST\bin\Debug\net6.0\WEB API REST.deps.json
+C:\DotNetCore\WEB API REST\WEB API REST\bin\Debug\net6.0\WEB API REST.runtimeconfig.json
+C:\DotNetCore\WEB API REST\WEB API REST\bin\Debug\net6.0\WEB API REST.dll
+C:\DotNetCore\WEB API REST\WEB API REST\bin\Debug\net6.0\WEB API REST.pdb
+C:\DotNetCore\WEB API REST\WEB API REST\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\DotNetCore\WEB API REST\WEB API REST\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\DotNetCore\WEB API REST\WEB API REST\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\DotNetCore\WEB API REST\WEB API REST\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\DotNetCore\WEB API REST\WEB API REST\obj\Debug\net6.0\staticwebassets\msbuild.WEB API REST.Microsoft.AspNetCore.StaticWebAssets.props
+C:\DotNetCore\WEB API REST\WEB API REST\obj\Debug\net6.0\staticwebassets\msbuild.build.WEB API REST.props
+C:\DotNetCore\WEB API REST\WEB API REST\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WEB API REST.props
+C:\DotNetCore\WEB API REST\WEB API REST\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WEB API REST.props
+C:\DotNetCore\WEB API REST\WEB API REST\obj\Debug\net6.0\staticwebassets.pack.json
+C:\DotNetCore\WEB API REST\WEB API REST\obj\Debug\net6.0\staticwebassets.build.json
+C:\DotNetCore\WEB API REST\WEB API REST\obj\Debug\net6.0\staticwebassets.development.json
+C:\DotNetCore\WEB API REST\WEB API REST\obj\Debug\net6.0\scopedcss\bundle\WEB API REST.styles.css
+C:\DotNetCore\WEB API REST\WEB API REST\obj\Debug\net6.0\WEB API REST.csproj.CopyComplete
+C:\DotNetCore\WEB API REST\WEB API REST\obj\Debug\net6.0\WEB API REST.dll
+C:\DotNetCore\WEB API REST\WEB API REST\obj\Debug\net6.0\refint\WEB API REST.dll
+C:\DotNetCore\WEB API REST\WEB API REST\obj\Debug\net6.0\WEB API REST.pdb
+C:\DotNetCore\WEB API REST\WEB API REST\obj\Debug\net6.0\WEB API REST.genruntimeconfig.cache
+C:\DotNetCore\WEB API REST\WEB API REST\obj\Debug\net6.0\ref\WEB API REST.dll

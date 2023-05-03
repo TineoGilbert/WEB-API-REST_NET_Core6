@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zwpaL92ZnQUaCHeio6LOwdKw8rl7d3Mz7fQZFtjtzPOxf+E7eFJTGspG0Q3p3JpDd+Esl5Rel0EfMpvrfwiBIw==",
+  "success": true,
+  "projectFilePath": "C:\\DotNetCore\\WEB API REST\\WEB API REST\\WEB API REST.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tineo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\tineo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\tineo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\tineo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\tineo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\tineo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
